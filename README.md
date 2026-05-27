@@ -9,6 +9,13 @@ The core codec was originally developed under the internal name `SQuaJL`. The Ru
 keeps the `SQuaJL` and `SQuaJLConfig` names for compatibility, and also exports
 `ClarkHash` and `ClarkHashConfig` aliases for new code.
 
+## Links
+
+- Crate: [crates.io/crates/clark-hash](https://crates.io/crates/clark-hash)
+- API docs: [docs.rs/clark-hash](https://docs.rs/clark-hash/latest/clark_hash/)
+- Source: [github.com/clark-labs-inc/clark-hash](https://github.com/clark-labs-inc/clark-hash)
+- Paper sources: [arxiv_submission/](arxiv_submission/)
+
 ## Main Use Cases
 
 - **Cheaper embedding memory:** store 384-dimensional `f32` sentence embeddings as

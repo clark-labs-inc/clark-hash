@@ -7,6 +7,7 @@ license = "MIT OR Apache-2.0"
 description = "Clark Hash: stateless sparse Johnson-Lindenstrauss sketches for neural embeddings"
 readme = "README.md"
 repository = "https://github.com/clark-labs-inc/clark-hash"
+documentation = "https://docs.rs/clark-hash/latest/clark_hash/"
 keywords = ["embeddings", "quantization", "jl", "hashing", "similarity"]
 categories = ["algorithms", "data-structures", "science"]
 
