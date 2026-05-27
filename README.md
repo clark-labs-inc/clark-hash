@@ -9,6 +9,19 @@ The core codec was originally developed under the internal name `SQuaJL`. The Ru
 keeps the `SQuaJL` and `SQuaJLConfig` names for compatibility, and also exports
 `ClarkHash` and `ClarkHashConfig` aliases for new code.
 
+## Main Use Cases
+
+- **Cheaper embedding memory:** store 384-dimensional `f32` sentence embeddings as
+  48-byte searchable sketches in the default profile.
+- **Online semantic memory:** encode vectors as they arrive, without training a
+  codebook or recalibrating on the whole corpus.
+- **Large text streams:** map documents, chunks, logs, conversations, or agent
+  traces into compact semantic tokens for cheaper storage, movement, and scan.
+- **Retrieval prefilters:** use compressed sketch scores as a low-cost first pass
+  before reranking with dense vectors, text, or a stronger retrieval model.
+- **Local and edge search:** keep more semantic state in RAM, local disk, browser
+  storage, or customer-controlled deployments where bandwidth and sync size matter.
+
 ## Repository Scope
 
 This repository is now focused on the Clark Hash embedding codec:
