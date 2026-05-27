@@ -1,0 +1,17 @@
+target/
+criterion/
+.fastembed_cache/
+dist/
+arxiv_submission.zip
+
+.DS_Store
+.env
+.env.*
+!.env.example
+
+*.log
+*.tmp
+*.swp
+*.swo
+
+Cargo.lock

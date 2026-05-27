@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{achlioptas2003database}
+Dimitris Achlioptas.
+\newblock Database-friendly random projections: Johnson-Lindenstrauss with
+  binary coins.
+\newblock {\em Journal of Computer and System Sciences}, 66(4):671-687, 2003.
+
+\bibitem{cer2017semeval}
+Daniel Cer, Mona Diab, Eneko Agirre, Inigo Lopez-Gazpio, and Lucia Specia.
+\newblock {SemEval}-2017 Task 1: Semantic textual similarity multilingual and
+  crosslingual focused evaluation.
+\newblock In {\em Proceedings of the 11th International Workshop on Semantic
+  Evaluation}, pages 1-14, 2017.
+
+\bibitem{charikar2002finding}
+Moses Charikar, Kevin Chen, and Martin Farach-Colton.
+\newblock Finding frequent items in data streams.
+\newblock In {\em Proceedings of the 29th International Colloquium on Automata,
+  Languages and Programming}, pages 693-703, 2002.
+
+\bibitem{dasgupta2010sparse}
+Anirban Dasgupta, Ravi Kumar, and Tam{\'a}s Sarl{\'o}s.
+\newblock A sparse Johnson-Lindenstrauss transform.
+\newblock In {\em Proceedings of the 42nd ACM Symposium on Theory of
+  Computing}, pages 341-350, 2010.
+
+\bibitem{gray1998quantization}
+Robert~M. Gray and David~L. Neuhoff.
+\newblock Quantization.
+\newblock {\em IEEE Transactions on Information Theory}, 44(6):2325-2383,
+  1998.
+
+\bibitem{jegou2011product}
+Herv{\'e} J{\'e}gou, Matthijs Douze, and Cordelia Schmid.
+\newblock Product quantization for nearest neighbor search.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  33(1):117-128, 2011.
+
+\bibitem{johnson1984extensions}
+William~B. Johnson and Joram Lindenstrauss.
+\newblock Extensions of Lipschitz mappings into a Hilbert space.
+\newblock {\em Contemporary Mathematics}, 26:189-206, 1984.
+
+\bibitem{kane2014sparser}
+Daniel~M. Kane and Jelani Nelson.
+\newblock Sparser Johnson-Lindenstrauss transforms.
+\newblock {\em Journal of the ACM}, 61(1):4:1-4:23, 2014.
+
+\bibitem{muennighoff2022mteb}
+Niklas Muennighoff, Nouamane Tazi, Lo{\"i}c Magne, and Nils Reimers.
+\newblock {MTEB}: Massive text embedding benchmark.
+\newblock {\em arXiv preprint arXiv:2210.07316}, 2022.
+
+\bibitem{reimers2019sentencebert}
+Nils Reimers and Iryna Gurevych.
+\newblock Sentence-{BERT}: Sentence embeddings using Siamese {BERT}-networks.
+\newblock In {\em Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing}, pages 3982-3992, 2019.
+
+\bibitem{wang2020minilm}
+Wenhui Wang, Furu Wei, Li Dong, Hangbo Bao, Nan Yang, and Ming Zhou.
+\newblock {MiniLM}: Deep self-attention distillation for task-agnostic
+  compression of pre-trained transformers.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~33,
+  pages 5776-5788, 2020.
+
+\bibitem{weinberger2009feature}
+Kilian~Q. Weinberger, Anirban Dasgupta, John Langford, Alexander~J. Smola, and
+  Josh Attenberg.
+\newblock Feature hashing for large scale multitask learning.
+\newblock In {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning}, pages 1113-1120, 2009.
+
+\end{thebibliography}

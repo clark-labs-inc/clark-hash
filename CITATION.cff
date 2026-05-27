@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use Clark Hash, please cite the paper and repository."
+title: "Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings"
+version: "0.1.0"
+date-released: "2026-05-27"
+url: "https://github.com/clark-labs-inc/clark-hash"
+authors:
+  - name: "Clark Labs Inc."
+  - name: "Autoresearch"
+  - family-names: "Kirdey"
+    given-names: "Stanislav"
+preferred-citation:
+  type: article
+  title: "Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings"
+  year: 2026
+  publisher:
+    name: "Clark Labs Inc."
+  url: "https://github.com/clark-labs-inc/clark-hash"
+  authors:
+    - name: "Clark Labs Inc."
+    - name: "Autoresearch"
+    - family-names: "Kirdey"
+      given-names: "Stanislav"
