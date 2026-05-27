@@ -61,25 +61,25 @@ or calibration pass before storing each vector:
 
 ## Install
 
-From GitHub:
+From crates.io:
 
 ```toml
 [dependencies]
-clark-hash = { git = "ssh://git@github.com/clark-labs-inc/clark-hash.git" }
+clark-hash = "0.1"
 ```
 
 With local text embedding support through `fastembed`:
 
 ```toml
 [dependencies]
-clark-hash = { git = "ssh://git@github.com/clark-labs-inc/clark-hash.git", features = ["fastembed"] }
+clark-hash = { version = "0.1", features = ["fastembed"] }
 ```
 
 With serialization support for quantized codes:
 
 ```toml
 [dependencies]
-clark-hash = { git = "ssh://git@github.com/clark-labs-inc/clark-hash.git", features = ["serde"] }
+clark-hash = { version = "0.1", features = ["serde"] }
 ```
 
 In Rust code, the crate is imported as `clark_hash`.
