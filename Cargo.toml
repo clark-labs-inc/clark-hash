@@ -19,7 +19,7 @@ fastembed = ["dep:fastembed"]
 [dependencies]
 thiserror = "2.0"
 serde = { version = "1.0", features = ["derive"], optional = true }
-fastembed = { version = "5.13", optional = true }
+fastembed = { version = "6.0", optional = true }
 
 [dev-dependencies]
 criterion = { version = "0.8", features = ["html_reports"] }
